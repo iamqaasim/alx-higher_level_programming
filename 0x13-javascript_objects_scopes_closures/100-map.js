@@ -5,4 +5,4 @@ var newlist = list.map(function(val, index){
             return {key:index, value:val*index};
         })
 
-console.log(newArr)
+console.log(newlist)
